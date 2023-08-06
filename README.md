@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachit Sahu</h1>
 <h3 align="center">I am a passionate frontend developer with a deep love for creating immersive and user-friendly web experiences. Over the years, I've honed my skills in HTML, CSS, and JavaScript, and I thrive on turning design concepts into interactive, pixel-perfect websites.</h3>
-<img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o29i52cmdqmy25afjdoz020aed69w68k0qre1zry&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px"  alt="coding" >
+
 - 📫 How to reach me **curiousrachit.26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
