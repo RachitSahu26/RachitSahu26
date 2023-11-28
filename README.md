@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit Sahu</h1>
-<h3 align="center">I am a passionate frontend developer with a deep love for creating immersive and user-friendly web experiences. Over the years, I've honed my skills in HTML, CSS, and JavaScript, and I thrive on turning design concepts into interactive, pixel-perfect websites.</h3>
+<h3 align="center">I am a passionate Mern Stack developement with a deep love for creating immersive and user-friendly web experiences. Over the years, I've honed my skills in HTML, CSS, and JavaScript, and I thrive on turning design concepts into interactive, pixel-perfect websites.</h3>
 
 - 📫 How to reach me **curiousrachit.26@gmail.com**
 
