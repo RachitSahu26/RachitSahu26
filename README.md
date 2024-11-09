@@ -13,13 +13,6 @@
 <h3 align="left" >Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsahu26&show_icons=true&locale=en&layout=compact" alt="rachitsahu26" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitsahu26&show_icons=true&locale=en" alt="rachitsahu26" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsahu26&" alt="rachitsahu26" /></p>
-
-
 
 
 <h1 align="center">Hey ! I'm Rachit </h1>
@@ -63,7 +56,7 @@
 <br>
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditijainnn&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rachitsahu26&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 
 
@@ -98,42 +91,55 @@
 <table align="center">
   <tr align="center">
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/Aditijainnn/Aditijainnn/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
+      <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/Adventurer%20Badge.png" alt="GSSoC-Exdt'24Adventurer Badge" width="100" />
       <br>
-      <strong>GSSoC'24 Explorer Badge</strong>
+      <strong>GSSoC'24-Extd Adventurer Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/Aditijainnn/Aditijainnn/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
+      <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
       <br>
-      <strong>GSSoC'24 Adventurer Badge</strong>
+      <strong>GSSoC'24-Extd Explorer Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/Aditijainnn/Aditijainnn/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
+      <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
       <br>
       <strong>GSSoC'24 Champion Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/Aditijainnn/Aditijainnn/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
+      <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
       <br>
       <strong>GSSoC'24 Trailblazer Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/Aditijainnn/Aditijainnn/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
+      <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
       <br>
       <strong>GSSoC'24 Summit Seeker Badge</strong>
     </td>
     <td align="center">
-      <img src="Innovator Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
+      <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
       <br>
       <strong>GSSoC'24 Innovator Badge</strong>
     </td>
      <td style="border-right: 1px solid #eeeeef;" align="center">
-    <img src="Postman - Postman API Fundamentals Student Expert - 2024-07-29 (1).png" alt="GSSoC'24 Postman Challenge Badge" width="100" />
+    <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-10-24.png" alt="GSSoC'24 Postman Challenge Badge" width="100" />
     <br>
     <strong>Postman API Fundamentals Student Expert</strong>
     </td> 
   </td>
   </tr>
+ <tr align="center">
+ <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src=https://github.com/RachitSahu26/RachitSahu26/blob/main/Web3Hack%20Badge.png" alt="GSSoC-Exdt'Web3Hack Badge" width="100" />
+      <br>
+      <strong>GSSoC'24-Extd Web3Hack Badge</strong>
+    </td>
+   <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/Conqurer%20Bedge.png" alt="GSSoC'24 Conqurer Badge" width="100" />
+      <br>
+      <strong>GSSoC'24-Extd Conqurer Badge</strong>
+    </td>
+  </tr>
+  
 </table>
 
 <hr>
