@@ -1,19 +1,18 @@
-<h3 align="center">A passionate learner!!</h3>
+<h3 align="center">Hii I am Rachit Sahu!!</h3>
 <table>
   <tr>
     <td>
-      <h3>A passionate learner!!</h3>
       <p>
-        ### 🧐 More About Me:
         <ul>
-          <li>🔭 &nbsp; I’m a sophomore student pursuing a Bachelor's in Computer Science (CSE).</li>
-          <li>🤝 &nbsp; I’m looking to collaborate on interesting projects.</li>
-          <li>🌱 &nbsp; Currently diving into new technologies to expand my skills.</li>
-          <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/RachitSahu26?tab=repositories">GitHub</a>.</li>
-          <li>💬 &nbsp; Ask me about anything tech-related; I’m happy to help!</li>
-          <li>📫 &nbsp; Connect with me on <a href="https://www.linkedin.com/in/rachit-sahu-004ba2255/">LinkedIn</a>.</li>
-          <li>🎶 &nbsp; In my free time, I enjoy listening to music.</li>
-          <li>📫 &nbsp; Reach me at <strong>curiousrachit.26@gmail.com</strong></li>
+         <li>🔭 &nbsp; I’m a sophomore student pursuing a Bachelor's in Computer Science (CSE).</li>
+        <li>🤝 &nbsp; I love contributing to open-source projects and engaging with the developer community.</li>
+        <li>🌱 &nbsp; Currently diving into new technologies to expand my skills.</li>
+        <li>🎤 &nbsp; In the future, I aspire to share my experiences at conferences and inspire others to join open-source initiatives.</li>
+        <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/RachitSahu26?tab=repositories">GitHub</a>.</li>
+        <li>💬 &nbsp; Ask me about anything tech-related; I’m happy to help!</li>
+        <li>📫 &nbsp; Connect with me on <a href="https://www.linkedin.com/in/rachit-sahu-004ba2255/">LinkedIn</a>.</li>
+        <li>🎶 &nbsp; In my free time, I enjoy listening to music.</li>
+        <li>📫 &nbsp; Reach me at <strong>curiousrachit.26@gmail.com</strong></li>
         </ul>
       </p>
     </td>
