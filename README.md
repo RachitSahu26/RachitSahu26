@@ -43,14 +43,17 @@
   </tr>
 </table>
 <table align="center">
-  <tr>
-    <td align="center">
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachitsahu26&theme=github_dark" />
+ <tr>
+      <td align="center">
+      <img  width="350em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachitsahu26&theme=github_dark" />
     </td>
+ </tr>
+   <tr>
     <td align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RachitSahu26&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="RachitSahu26" />
     </td>
-  </tr>
+   </tr>
+ 
 </table>
 
 </div>
@@ -66,14 +69,14 @@
   <tr>
     <td style="border-right: 1px solid #eeeeef;" align="center">
       <a href="center">
-        <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/GSSoC.png" alt="GirlScript Summer of Code" width="100" />
+        <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/GSSoC.png" alt="GirlScript Summer of Code" width="500" />
         <br>
         <strong>GirlScript Summer of Code (GSSoC)</strong>
       </a>
     </td>
     <td align="center">
       <a href="center">
-        <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/HacktoberFest%20Badges.png" alt="Hacktoberfest" width="100" />
+        <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/HacktoberFest%20Badges.png" alt="Hacktoberfest" width="500" />
         <br>
         <strong>Hacktoberfest</strong>
       </a>
