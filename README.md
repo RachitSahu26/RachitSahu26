@@ -48,7 +48,7 @@
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachitsahu26&theme=github_dark" />
     </td>
     <td align="center">
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachitsahu26&theme=github_dark" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RachitSahu26&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="RachitSahu26" />
     </td>
   </tr>
 </table>
