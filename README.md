@@ -147,6 +147,6 @@
 
 <h3 align="center">HacktoberFest Open Source Contribution Badges:</h3>
 <p align="left">
-<a href="https://holopin.io/@aditijainnn">   <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/HacktoberFest%20Badges.png" alt="@RachitSahu26 Holopin board" /> </a>
+<a href="https://www.holopin.io/@rachitsahu26#badges">   <img src="https://github.com/RachitSahu26/RachitSahu26/blob/main/HacktoberFest%20Badges.png" alt="@RachitSahu26 Holopin board" /> </a>
 
 
